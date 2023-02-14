@@ -1,2 +1,3 @@
 #!/bin/bash
-echo TRUEKNOWLEDGE="$((100 + 28))"
+TRUEKNOWLEDGE="128"
+echo $TRUEKNOWLEDGE
